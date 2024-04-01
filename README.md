@@ -1,2 +1,5 @@
 # stock-android-app
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EFwdRj86Dg4?si=dS0RVhrXBYX0qoqG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+https://github.com/arshiashaik/stock-android-app/assets/91397846/bcdd5565-cb55-4fa5-b723-b132685adb27
+
